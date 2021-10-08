@@ -1,4 +1,4 @@
-### Hello, I'm Chaz Carothers! 👋
+### Hello, I'm Chaz Carothers!👋🏾
 
 - 🔭 I’m currently working on additions to my portfolio.
 - 🌱 I’m currently learning 3D Library (Three.js).
