@@ -29,4 +29,4 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 
 #### GitHub Status
 
-[![Baobab-Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baobab-Prince&theme=tokyonight)](https://github.com/Baobab-Prince/github-readme-stats)
+[![Baobab-Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baobab-Prince&hide=issues&theme=tokyonight)](https://github.com/Baobab-Prince/github-readme-stats)
