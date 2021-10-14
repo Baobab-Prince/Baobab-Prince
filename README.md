@@ -22,6 +22,11 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Baobab-Prince.Baobab-Prince&left_color=green&right_color=red)
 
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### GitHub Status
 
 [![Baobab-Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baobab-Prince&theme=tokyonight)](https://github.com/Baobab-Prince/github-readme-stats)
