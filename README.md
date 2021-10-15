@@ -26,7 +26,8 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   2 mins          ███████████████░░░░░░░░░░   59.81 % 
+YAML       1 min           ██████████░░░░░░░░░░░░░░░   40.19 % 
 ```
 <!--END_SECTION:waka-->
 
