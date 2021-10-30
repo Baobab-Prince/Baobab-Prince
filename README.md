@@ -12,7 +12,7 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: Twitter - @BaobabPrince
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to solve all types of Rubik's Cubes!
+- ⚡ Fun fact: I love to solve all types of Rubik's cubes!
 
 #### Top Technologies
 
