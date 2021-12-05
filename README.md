@@ -26,10 +26,10 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 
 <!--START_SECTION:waka-->
 ```text
-HTML         7 hrs 31 mins   █████████████████▒░░░░░░░   69.11 % 
-CSS          2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
-JavaScript   1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+HTML         7 hrs 52 mins   ███████████████▓░░░░░░░░░   62.78 % 
+CSS          2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.19 % 
+JavaScript   2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
