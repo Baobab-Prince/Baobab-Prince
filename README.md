@@ -9,7 +9,7 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 - 🌱 I’m currently learning 3D Library (Three.js).
 - 🛠 I’m looking to collaborate on upcoming Hackathons.
 - 🤔 I’m looking for help with Three.js (3D Library)
-- 💬 Ask me about anything tech related.
+- 💬 Ask me about anything tech related!
 - 📫 How to reach me: Twitter - @BaobabPrince
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to solve all types of Rubik's cubes!
