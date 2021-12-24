@@ -20,7 +20,7 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
     
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Baobab-Prince.Baobab-Prince&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Baobab-Prince.Baobab-Prince&left_color=green&right_color=red)!
 
 #### Coding Stats
 
