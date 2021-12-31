@@ -5,7 +5,7 @@ I'm Chaz Carothers, a Front End Web Developer. I spend most of my time coding pr
 :mailbox: Contact Me
 [![Twitter Badge](https://img.shields.io/badge/-@BaobabPrince-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BaobabPrince)](https://twitter.com/BaobabPrince) [![Linkedin Badge](https://img.shields.io/badge/-Carothers-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-carothers-169117194/) [![Mail Badge](https://img.shields.io/badge/-@baobabprince-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/baobabprince) [![Mail Badge](https://img.shields.io/badge/-chaz.carothers-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chaz.carothers@gmail.com)
 
-- 🔭 I’m currently working on additions to my portfolio.
+- 🔭 I’m working on additions to my portfolio.
 - 🌱 I’m currently learning 3D Library (Three.js).
 - 🛠 I’m looking to collaborate on upcoming Hackathons.
 - 🤔 I’m looking for help with Three.js (3D Library)
